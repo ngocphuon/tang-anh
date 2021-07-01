@@ -12,5 +12,4 @@ const CONFIG = {
     mess: 'Em biết mà em hiểu mà',
     messDesc: 'Đồ dối gian :(((( ',
     btnAccept: 'iu em',
-   
 }
