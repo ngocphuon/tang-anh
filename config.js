@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'Em biết mà em hiểu mà',
     messDesc: 'Đồ dối gian.',
     btnAccept: ':3',
-    messLink: 'https://m.me/ngocphuonnnnn
+    messLink: 'https://m.me/ngocphuonnnnn'
 }
