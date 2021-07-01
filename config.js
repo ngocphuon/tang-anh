@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: 'Em đã trằn trọc suốt đêm qua đặt ra một câu hỏi ',
     btnIntro: 'Sao em',
     title: 'Anh có iu em khônggggg',
-    desc: ' Anh không trả lời em anh là con heo',
+    desc: ' Anh không trả lời em anh là con heo ',
     btnYes: 'Khonggggg',
     btnNo: 'Coaaaaa',
     question:'Trên thế giới này có tỷ tỷ con heo mà sao anh lại chọn như thế :(((( ',
