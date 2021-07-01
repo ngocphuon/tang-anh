@@ -6,7 +6,7 @@ const CONFIG = {
     desc: ' Anh không trả lời em anh là con ',
     btnYes: 'Khonggggg',
     btnNo: 'Coaaaaa',
-    question:'Trên thế giới này có tỷ tỷ con mà sao anh lại chọn như thế',
+    question:'Trên thế giới này có tỷ tỷ con 🐽 mà sao anh lại chọn như thế 🥺',
     btnReply: 'Gửi cho em :3',
     reply: 'Tại vì anh là trúa của những con :3333333333',
     mess: 'Em biết mà em hiểu mà',
